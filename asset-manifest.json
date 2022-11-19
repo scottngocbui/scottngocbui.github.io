@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scottngocbui.github.io/static/css/main.e056198a.css",
+    "main.js": "/scottngocbui.github.io/static/js/main.063ac05a.js",
+    "static/media/me.png": "/scottngocbui.github.io/static/media/me.30278bdfe442d150feeb.png",
+    "static/media/me1.png": "/scottngocbui.github.io/static/media/me1.50b760d1e5f4ba0c5533.png",
+    "index.html": "/scottngocbui.github.io/index.html",
+    "main.e056198a.css.map": "/scottngocbui.github.io/static/css/main.e056198a.css.map",
+    "main.063ac05a.js.map": "/scottngocbui.github.io/static/js/main.063ac05a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e056198a.css",
+    "static/js/main.063ac05a.js"
+  ]
+}
